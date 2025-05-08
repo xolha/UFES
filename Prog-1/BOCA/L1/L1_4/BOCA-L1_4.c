@@ -3,7 +3,7 @@
 
 int main() {
     //variaveis
-    float r, a, r2, pi = 3.14159;;
+    float r, a, r2, pi = 3.14159;
 
     //entrada
     printf("Insira o valor do raio de um circulo: ");
