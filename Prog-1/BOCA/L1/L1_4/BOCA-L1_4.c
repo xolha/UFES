@@ -1,21 +1,23 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
+#define pi 3.141592
 
 int main() {
     //variaveis
-    float r, a, r2, pi = 3.14159;
+    float r, a, r2;
 
     //entrada
-    printf("Insira o valor do raio de um circulo: ");
-    scanf("%f", &r);
+    //"Insira o valor do raio de um circulo: "
+    scanf("%f",&r);
 
-    //operacoes
-
+    //operacoesm
     a = pi * r * r;
-    r2 = r / sqrt(2);
+    r2 = sqrt((a / 2)/ pi);
 
     //saida
-    printf("O valor da area eh: %.2f, e o raio do circulo com metade desta area eh: %.2f", a, r2);
+    //"O valor da area e do novo raio eh; "
+    printf("%.2f %.2f\n", a, r2);
 
 return 0;
 }

@@ -7,14 +7,12 @@ int main() {
     float largura;
 
     //entrada
-    printf("Insira uma altura de um retangulo para calcular seu perimetro: ");
-    scanf("%f", &altura);
-
-    printf("agora insira uma largura: ");
-    scanf("%f", &largura);
+    //"Insira uma altura e uma largura de um retangulo para calcular seu perimetro"
+    scanf("%f %f", &altura, &largura);
 
     //saida
-    printf("O perimetro do retangulo eh %.2f", ( 2 * altura + 2 *largura));
+    // "O perimetro do retangulo eh"
+    printf( "%.2f", ( 2 * altura + 2 *largura));
 
     return 0;
 }

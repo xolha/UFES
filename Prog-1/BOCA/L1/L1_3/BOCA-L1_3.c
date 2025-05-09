@@ -3,18 +3,19 @@
 
 int main() {
     //variaveis
-    float x1, y1, x2, y2, p;
-
+    float x1, y1, x2, y2, altura, largura, p;
 
     //entrada
-    printf("Insira as coordenadas (x,y) dos cantos inferior esquerdo e superior direito do retangulo para calcular seu perimetro: ");
+    //"Insira as coordenadas (x,y) dos cantos inferior esquerdo e superior direito do retangulo para calcular seu perimetro: "
     scanf("%f %f %f %f", &x1, &y1, &x2, &y2);
 
     //operacao
-    p = x1 + y1 + x2 + y2;
+    altura = x2-x1;
+    largura = y2 - y1;
+    p = 2* (altura + largura);
 
     //saida
-    printf ("O perimetro foi de %.2f", p);
-
+    //"O perimetro foi de "
+    printf ("%.2f",p);
 return 0;
 }
