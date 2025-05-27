@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 int main () {
-    int n, i;
+    int n;
 
     //entrada
-    scanf("%d", &n);
+    scanf("%d", &n); //importante: lembrar que esse n serve somente para a entrada
 
     //saida
-    for ( i = 1 ; i <= n ; i++) {
-        if ( n % 2 == 1 ) {
-            printf("%d\n", i);
+    for ( int i = 1 ; i <= n ; i++) {
+        if ( i % 2 == 1 ) { //e que o 'i' eh quem deve ficar neste lugar
+            printf("%d ", i);
         }
     }
 
