@@ -1,0 +1,59 @@
+ERRO: Pasta trabalhos nao encontrada.
+ERRO: Pasta scripts_python nao encontrada.
+ERRO: Arquivo nao cabe na pasta impressao_3d.
+ERRO: Pasta projetos nao encontrada.
+projeto_mapa:
+  (pdf) proposta_comercial
+  (c) testes_regressao_cpp
+  (png) bairro
+  (c) modulo_de_video
+modelos:
+  (objc) modelo_de_ponte
+  (objc) modelo_de_ponte_suspensa
+  (3mf) peca_de_modulo_de_celular
+  (stl) ornamento_de_natal
+impressao_3d:
+  (obj) figura_animal
+  (stl) modelo_de_cadeia_de_alimentacao
+  (objc) peca_de_modulo_de_cabo
+  (obj) peca_de_robotica
+  (3mf) engrenagem_de_aeronave
+arquivos:
+  (alac) la_vem_ela
+  (pdf) o_despertar_da_fera
+  (jpg) floresta
+  (pdf) plano_de_contingencia
+  (c) modulo_de_parsing_cpp
+meus_docs:
+  (jpg) lugar_publico
+  (pdf) manual_tecnico
+  (png) clube
+  (png) deserto
+  (jpg) rancho
+  (jpg) campo
+  (png) lama
+jogos:
+  (rar) poderes_ocultos
+  (dmg) dragoes_e_magia
+  (exe) misterio_da_piramide
+  (rar) xaos_no_deserto
+  (zip) pesadelo_nas_alturas
+  (dmg) resgate_na_selva
+docs_trabalho:
+  (pdf) roteiro_de_apresentacao
+  (c) modulo_de_dados_cpp
+  (jpg) pista_de_esqui
+  (pptx) estudo_de_mercado
+  (pdf) proposta_de_parceria
+manuais:
+  (pdf) contrato_de_comodato
+  (docx) analise_de_risco
+  (docx) memoria_descritiva
+  (docx) analise_de_desempenho
+livros:
+  (pdf) manual_de_procedimentos
+  (docx) relatorio_de_producao
+  (pdf) manual_do_usuario
+  (pdf) regulamento_interno
+  (pdf) manual_de_operacao
+  (pdf) guia_de_instalacao

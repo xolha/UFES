@@ -1,0 +1,56 @@
+ERRO: Arquivo nao cabe na pasta jogos.
+musicas:
+  (wma) por_meu_amor
+  (aac) novo_dia
+projeto_empresa:
+  (c) modulo_de_serializacao_cpp
+  (pptx) regimento_interno
+  (jpg) gloria
+projeto_mapa:
+  (c) modulo_de_compressao_cpp
+  (docx) analise_de_mercado
+  (jpg) duna
+  (c) modulo_de_validacao
+  (jpg) abrigo
+  (c) modulo_de_descompressao
+  (c) projeto_principal
+  (txt) lista_de_tarefas
+modelos:
+  (stl) engrenagem_de_transmissao
+  (objc) escultura_de_robo
+  (stl) ornamento_de_pascoa
+  (obj) escultura_de_pokemon
+impressao_3d:
+  (obj) modelo_de_edificio
+  (stl) joia_de_prata
+  (3mf) modelo_de_tanque_de_guerra
+  (obj) decoracao
+arquivos:
+  (jpg) bomba
+  (pdf) manual_de_usuario
+  (c) funcoes_auxiliares
+  (prc) til
+  (ogg) durvalina
+  (c) modulo_de_mensagem
+  (epub) a_grande_viagem
+  (epub) memorial_do_convento
+meus_docs:
+  (jpg) casino
+  (png) porto
+  (png) clube
+  (pdf) guia_de_instalacao
+  (jpg) verde
+  (png) villa
+  (jpg) cedro
+jogos:
+  (exe) segredos_da_piramide
+  (rar) batalha_no_espaco
+  (zip) segredos_do_antigo_egito
+manuais:
+  (docx) relatorio_anual_2023
+  (pptx) estudo_ambiental
+  (pptx) estudo_de_viabilidade
+  (pdf) curriculum_vitae
+  (xlsx) planilha_de_controle
+livros:
+  (pdf) roteiro_de_audiovisual

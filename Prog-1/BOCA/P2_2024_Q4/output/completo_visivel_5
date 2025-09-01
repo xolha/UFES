@@ -1,0 +1,75 @@
+ERRO: Pasta privado nao encontrada.
+ERRO: Pasta videos nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta documentos_especiais nao encontrada.
+ERRO: Pasta projetos nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta manuais.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta trabalhos nao encontrada.
+ERRO: Pasta fotos nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta videos nao encontrada.
+ERRO: Pasta meus_arquivos nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta musicas_rock nao encontrada.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta manuais.
+ERRO: Pasta privado nao encontrada.
+ERRO: Arquivo nao cabe na pasta manuais.
+ERRO: Arquivo nao cabe na pasta manuais.
+projeto_empresa:
+  (png) planicie
+  (c) modulo_de_armazenamento_cpp
+  (docx) relatorio_de_pesquisa
+  (c) modulo_de_operacao
+  (c) modulo_de_controle_cpp
+  (c) modulo_de_monitoramento
+  (pdf) manual_de_manutencao
+projeto_mapa:
+  (c) modulo_de_comunicacao_cpp
+  (pdf) contrato_de_servicos
+  (sh) script_automatizacao
+  (png) encosta
+  (c) modulo_de_comunicacao
+  (png) ponte
+modelos:
+  (objc) miniatura_de_helicoptero
+  (objc) escultura_de_alien
+  (3mf) miniatura_de_tanque_de_guerra
+arquivos:
+  (cbz) a_porta_dos_sonhos
+  (c) modulo_de_permissoes_cpp
+  (epub) a_grande_viagem
+  (pdf) termo_de_privacidade
+  (jpg) bomba
+  (m4a) o_ceu_e_o_limite
+  (docx) orcamento_familiar
+  (pptx) registro_de_marcas
+  (h) interface_grafica_cpp
+jogos:
+  (iso) defensores_do_planeta
+  (rar) guerreiros_do_tempo
+  (exe) ninja_assassino
+  (zip) zombies_invasion
+  (dmg) robo_contra_humano
+  (iso) herois_mitologicos
+docs_trabalho:
+  (pdf) curriculum_vitae
+  (c) modulo_de_graficos
+  (pdf) contrato_de_compra
+  (pdf) termo_de_aceite
+  (png) fiorde
+  (pdf) termo_de_garantia
+manuais:
+  (pdf) termo_de_cooperacao
+  (xlsx) planilha_de_custos
+  (pptx) relatorio_de_impacto_ambiental
+  (docx) carteira_identidade
+  (pdf) manual_de_procedimentos
+scripts:
+  (c) testes_performance_cpp
+  (c) modulo_utilitario_cpp
+  (c) modulo_de_inicializacao
+  (c) principal

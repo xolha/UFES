@@ -1,0 +1,65 @@
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Arquivo nao cabe na pasta projeto_mapa.
+ERRO: Arquivo nao cabe na pasta impressao_3d.
+ERRO: Arquivo nao cabe na pasta livros.
+ERRO: Arquivo nao cabe na pasta livros.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta jogos.
+musicas:
+  (dts) pelos_seus_olhos
+  (dsd) eu_te_darei_o_ceu
+  (dsd) drop_the_pressure
+  (dts) isso_nao_se_faz
+  (amr) louca_vida
+  (dts) palco_iluminado
+  (dts) cabelo
+projeto_mapa:
+  (c) modulo_de_io
+  (docx) guia_de_procedimentos
+  (jpg) planalto
+  (docx) analise_de_concorrencia
+impressao_3d:
+  (3mf) brinquedo_de_construcao
+  (3mf) dispositivo_de_armazenamento_de_dados
+  (stl) peca_de_modulo_de_memoria
+  (3mf) modelo_de_maquete_de_casa
+  (obj) modelo_de_navio_de_guerra
+arquivos:
+  (jpg) pista_de_corrida
+  (c) modulo_de_video
+  (pdf) manual_de_usuario
+  (pdf) plano_de_saude
+  (dts) cobertor_de_lana
+  (cbz) um_estudo_em_vermelho
+  (pdf) pedro_e_ines
+meus_docs:
+  (pdf) contrato_de_compra
+  (png) rio
+  (png) condominio
+  (jpg) rodovia
+  (png) villa
+jogos:
+  (lar) misterios_no_submundo
+  (rar) pilotos_de_caca
+docs_trabalho:
+  (c) modulo_de_api
+  (png) panorama
+  (docx) analise_de_concorrencia
+  (docx) planilha_de_gerenciamento
+  (jpg) calanque
+  (c) controlador
+manuais:
+  (pptx) estudo_de_viabilidade
+  (pptx) manual_de_normas
+  (pdf) plano_de_carreira
+livros:
+  (pdf) termo_de_licitacao
+  (pdf) contrato_de_servicos
+  (pptx) proposta_de_negocio
+scripts:
+  (sh) script_de_build
+  (c) modulo_de_dados
+  (c) modulo_de_operacao
+  (c) modulo_grafico
+  (c) modulo_de_parsing

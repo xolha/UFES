@@ -1,0 +1,41 @@
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta documentos_especiais nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta impressao_3d.
+ERRO: Arquivo nao cabe na pasta impressao_3d.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+musicas:
+  (ogg) desejo
+  (dsd) os_deuses_nao_erram
+  (ogg) eu_canto_assim
+  (aac) novo_amor
+  (ogg) perfeicao
+  (wav) gente_miuda
+modelos:
+  (3mf) figura_de_super_heroi
+  (3mf) peca_de_modulo_de_teclado
+  (3mf) engrenagem_de_aeronave
+  (stl) joia_de_casamento
+  (3mf) modelo_de_tanque_de_guerra
+  (obj) modelo_de_ferramenta
+  (stl) peca_de_modulo_de_impressora
+  (obj) modelo_de_maquete_de_cidade
+impressao_3d:
+  (stl) estrutura
+  (objc) peca_de_mecanismo
+meus_docs:
+  (jpg) torre
+  (png) recife
+  (docx) relatorio_de_gestao
+  (jpg) pantano
+  (png) vale
+  (pdf) manual_de_instalacao
+jogos:
+  (rar) guerra_futuristica
+  (zip) jogadores_em_acao
+  (exe) protecao_espacial
+  (dmg) ninjas_em_acao
+docs_trabalho:
+  (png) deserto
+  (pdf) plano_de_carreira
+  (c) testes_funcionais_cpp

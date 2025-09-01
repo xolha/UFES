@@ -1,0 +1,71 @@
+ERRO: Pasta dot_files nao encontrada.
+ERRO: Pasta fotos nao encontrada.
+ERRO: Pasta fontes nao encontrada.
+ERRO: Pasta logs nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta scripts_python nao encontrada.
+ERRO: Arquivo nao cabe na pasta projeto_mapa.
+ERRO: Pasta imagens_aniversario nao encontrada.
+ERRO: Pasta relatorios nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta meus_docs.
+ERRO: Pasta musicas_rock nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta musicas_rock nao encontrada.
+ERRO: Pasta publico nao encontrada.
+musicas:
+  (alac) dona_da_banca
+  (aac) chuva_no_brejo
+  (mp3) o_brilho_dos_teus_olhos
+  (aiff) do_meu_amor
+projeto_empresa:
+  (txt) dependencias
+  (pptx) plano_de_acao
+  (h) macros
+  (c) modulo_de_monitoramento
+  (png) acampamento
+  (pptx) relatorio_de_impacto_ambiental
+  (png) manufatura
+  (jpg) ruina
+projeto_mapa:
+  (pdf) curriculum_vitae
+  (jpg) gruta
+  (h) configuracoes_gerais
+  (c) modulo_de_io
+  (c) controlador
+  (jpg) padaria
+meus_docs:
+  (png) teto
+  (jpg) ilha
+  (png) monasterio
+  (docx) relatorio_de_resultados
+  (jpg) acude
+  (jpg) manguezal
+  (png) terraco
+docs_trabalho:
+  (pdf) formulario_de_inscricao
+  (pdf) termo_de_confidencialidade
+  (pptx) relatorio_tecnico
+  (png) mar
+  (pdf) manual_de_processos
+  (sh) script_de_build_cpp
+manuais:
+  (docx) relatorio_anual_2023
+  (docx) declaracao_de_residencia
+  (docx) termo_de_compromisso
+  (docx) roteiro_de_teatro
+  (pdf) roteiro_de_projeto
+livros:
+  (xlsx) planilha_de_orcamento
+  (pdf) roteiro_de_video
+  (pdf) termo_de_uso
+  (pdf) roteiro_de_video
+  (pdf) guia_de_uso
+scripts:
+  (c) modulo_de_parsing_cpp
+  (c) utilitarios_gerais
+  (c) modulo_de_criptografia_cpp
+  (c) modulo_de_entrada_cpp
+  (txt) roteiro_de_testes
+  (c) utilitarios_gerais_cpp

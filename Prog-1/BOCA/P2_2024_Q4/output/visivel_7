@@ -1,0 +1,56 @@
+ERRO: Arquivo nao cabe na pasta livros.
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta livros.
+ERRO: Arquivo nao cabe na pasta modelos.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta modelos.
+musicas:
+  (flac) poesia_no_coracao
+  (opus) do_mundo
+  (ogg) novo_tempo
+modelos:
+  (objc) modelo_de_ruina_inca
+  (obj) figura_animal
+  (3mf) miniatura_de_caiaque
+impressao_3d:
+  (stl) joia_personalizada
+  (objc) estatueta_de_espartano
+  (3mf) modelo_de_cabine_telefonica
+  (3mf) peca_de_modulo_de_internet
+  (stl) caixa_de_engrenagens
+  (3mf) joia_de_diamante_azul
+  (stl) peca_de_aviao
+  (3mf) peca_de_modulo_de_bateria
+  (obj) modelo_de_escavadeira
+  (objc) escultura_de_avengers
+  (3mf) brinquedo_educativo
+meus_docs:
+  (png) pastagem
+  (png) fazenda
+  (docx) estudo_de_ambiente
+  (jpg) antigo
+  (jpg) verde
+  (png) estalagem
+  (pdf) aviso_importante
+  (pdf) plano_de_desenvolvimento
+  (pptx) manual_de_normas
+  (pdf) contrato_de_alteracao
+manuais:
+  (pdf) formulario_de_inscricao
+  (pdf) manual_de_procedimentos
+  (docx) relatorio_de_progresso
+  (pptx) regimento_interno
+  (pdf) manual_tecnico
+  (docx) orcamento_familiar
+  (docx) analise_economica
+livros:
+  (pdf) proposta_de_evento
+  (pptx) regimento_interno
+  (pptx) relatorio_tecnico
+  (pdf) contrato_de_compra
+scripts:
+  (c) modulo_de_monitoramento

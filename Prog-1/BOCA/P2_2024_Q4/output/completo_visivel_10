@@ -1,0 +1,55 @@
+ERRO: Pasta dot_files nao encontrada.
+ERRO: Pasta logs nao encontrada.
+ERRO: Arquivo nao cabe na pasta arquivos.
+ERRO: Pasta imagens_aniversario nao encontrada.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Pasta documentos_especiais nao encontrada.
+projeto_mapa:
+  (c) modulo_de_permissoes_cpp
+  (pdf) manual_do_colaborador
+  (jpg) abrigo
+  (h) interface_rede
+  (png) local
+modelos:
+  (stl) miniatura_de_bote
+  (3mf) escultura_de_jogador
+impressao_3d:
+  (objc) miniatura_de_helicoptero
+  (objc) escultura_de_dc
+  (3mf) dispositivo_eletronico_portatil
+  (3mf) modelo_de_moinho_de_vento
+arquivos:
+  (cbz) a_escrava_isaura
+  (c) modulo_de_processamento
+  (txt) luciola
+  (wav) nao_me_venha
+  (pdf) plano_de_carreira
+  (pptx) proposta_de_projeto
+  (png) estaleiro
+meus_docs:
+  (jpg) sitio
+  (png) bairro
+  (jpg) antigo
+  (pdf) roteiro_de_evento
+  (png) pastagem
+jogos:
+  (iso) robo_de_combate
+docs_trabalho:
+  (jpg) grande
+  (docx) relatorio_de_pesquisa
+  (h) interface_audio
+  (pdf) proposta_comercial
+  (xlsx) planilha_de_controle
+manuais:
+  (pdf) curriculum_vitae
+livros:
+  (pdf) manual_de_manutencao
+  (pptx) estudo_de_mercado
+  (docx) relatorio_de_pesquisa
+  (docx) orcamento_familiar
+  (docx) analise_economica
+scripts:
+  (c) projeto_principal
+  (c) modulo_de_imagem
+  (c) modulo_de_conexao_cpp
+  (sh) script_automatizacao

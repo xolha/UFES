@@ -1,0 +1,57 @@
+ERRO: Arquivo nao cabe na pasta modelos.
+ERRO: Pasta imagens_aniversario nao encontrada.
+projeto_empresa:
+  (c) principal
+  (sh) script_de_build_cpp
+  (h) configuracoes_gerais
+  (jpg) padaria
+  (xlsx) planilha_orcamentaria
+  (jpg) mare
+projeto_mapa:
+  (png) fiorde
+  (pdf) contrato_de_prestacao_de_servicos
+  (md) readme
+  (jpg) costao
+  (c) modulo_de_execucao
+  (c) modulo_de_armazenamento
+modelos:
+  (stl) modelo_de_trem
+  (stl) prototipo_de_produto
+  (3mf) dispositivo_de_armazenamento_de_dados
+impressao_3d:
+  (3mf) figura_de_super_heroi
+  (3mf) modelo_de_moinho_de_vento
+  (3mf) maquete
+  (3mf) modelo_de_casamata
+  (obj) modelo_de_coracao
+arquivos:
+  (odt) carta_a_maria
+  (docx) estudo_de_ambiente
+  (png) circo
+  (aac) novo_amor
+  (c) modulo_de_controle_cpp
+meus_docs:
+  (png) villa
+  (png) estaleiro
+  (png) municipio
+  (jpg) hotel
+  (pdf) plano_de_carreira
+  (pdf) termo_de_garantia
+jogos:
+  (exe) exploradores_do_espaco
+  (zip) conquista_do_mundo
+  (exe) exploradores_perdidos
+docs_trabalho:
+  (jpg) costao
+  (docx) relatorio_de_progresso
+  (pdf) roteiro_de_video
+  (c) testes_regressao
+manuais:
+  (pdf) requerimento_administrativo
+  (pdf) termo_de_uso
+  (docx) analise_de_mercado
+  (pdf) roteiro_de_treinamento
+  (pptx) plano_de_negocios
+livros:
+  (pdf) guia_de_instalacao
+  (xlsx) planilha_de_custos

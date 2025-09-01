@@ -1,0 +1,31 @@
+musicas:
+  (aiff) balada_do_amor_inabalavel
+  (ogg) amizade_sincera
+  (alac) preco_da_vida
+  (pcm) devolva_me
+arquivos:
+  (pdf) memorando_interno
+  (c) funcao_utilitaria
+  (djvu) a_menina_invisivel
+  (png) montante
+  (aac) novo_amor
+meus_docs:
+  (jpg) maison
+  (docx) planilha_de_gerenciamento
+  (jpg) maison
+  (jpg) mirante
+  (jpg) floresta
+  (png) clube
+  (jpg) padaria
+jogos:
+  (dmg) desafio_ao_limite
+  (zip) jungle_warfare
+docs_trabalho:
+  (png) raspadeira
+  (pdf) roteiro_de_treinamento
+  (h) prototipos
+  (docx) relatorio_de_pesquisa
+  (pdf) plano_de_contingencia
+livros:
+  (docx) relatorio_de_pesquisa
+  (pdf) termo_de_aceite

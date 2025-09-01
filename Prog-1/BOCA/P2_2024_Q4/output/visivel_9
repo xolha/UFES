@@ -1,0 +1,45 @@
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta projeto_empresa.
+ERRO: Arquivo nao cabe na pasta livros.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+musicas:
+  (aac) bilhete
+projeto_empresa:
+  (c) testes_unitarios
+  (docx) relatorio_de_pesquisa
+  (png) vida_selvagem
+  (sh) script_inicializacao
+  (docx) termo_de_compromisso
+  (h) macros
+  (jpg) selvagem
+projeto_mapa:
+  (c) interface_usuario
+  (jpg) floresta
+  (pptx) proposta_de_orcamento
+  (jpg) ruina
+  (c) testes_regressao
+  (c) modulo_de_saida_cpp
+  (png) deserto
+  (pdf) roteiro_de_treinamento
+modelos:
+  (obj) modelo_de_coracao
+  (stl) engrenagem_de_carro_antigo
+  (3mf) engrenagem_de_carrinho_de_bebe
+  (3mf) escultura_de_heroi
+  (stl) joia_de_esmeralda
+docs_trabalho:
+  (pdf) termo_de_cooperacao
+  (c) modulo_de_compressao
+  (png) ponte
+manuais:
+  (docx) analise_de_custos
+  (pptx) estudo_de_caso
+  (docx) relatorio_de_desempenho
+  (docx) roteiro_de_entrevista
+  (docx) roteiro_de_teatro
+livros:
+  (pdf) manual_do_colaborador
+  (pptx) proposta_de_orcamento

@@ -1,0 +1,16 @@
+ERRO: Arquivo nao cabe na pasta projeto_empresa.
+ERRO: Arquivo nao cabe na pasta musicas.
+musicas:
+  (alac) imperfeito
+  (m4a) esperanca_perdida
+  (wav) pra_voce
+  (mp3) highway_to_hell
+  (wav) tnt
+  (mp3) the_jack
+projeto_empresa:
+  (c) modulo_de_descompressao
+  (pdf) curriculum_vitae
+  (png) acidente
+  (c) modulo_de_validacao
+  (c) modulo_de_notificacao
+  (c) modulo_api_gpt_minified

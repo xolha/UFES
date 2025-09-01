@@ -1,0 +1,59 @@
+ERRO: Arquivo nao cabe na pasta modelos.
+ERRO: Pasta backup nao encontrada.
+ERRO: Arquivo nao cabe na pasta impressao_3d.
+musicas:
+  (aac) chuva_no_brejo
+  (wav) amor_de_papel
+  (wav) mulher_que_sabe
+  (aac) bilhete
+  (amr) parede_branca
+projeto_empresa:
+  (pptx) plano_de_acao
+  (c) modulo_de_compressao
+  (c) modulo_de_armazenamento
+  (png) fazenda
+  (c) modulo_de_inicializacao_cpp
+projeto_mapa:
+  (h) interface_audio_cpp
+  (c) modulo_de_protocolos_cpp
+  (pdf) proposta_de_evento
+  (png) barranco
+modelos:
+  (stl) miniatura_de_droid
+  (objc) engrenagem_de_moto
+impressao_3d:
+  (stl) peca_de_modulo_de_memoria
+  (3mf) peca_personalizada
+  (3mf) peca_de_modulo_de_captacao
+  (objc) escultura_de_marvel
+  (3mf) miniatura_de_moto
+arquivos:
+  (jpg) loja
+  (alac) anjo_bom
+  (prc) a_guerra_dos_tronos
+  (c) modulo_de_criptografia_cpp
+  (prc) a_ilha_misteriosa
+  (pptx) plano_de_negocios
+  (cbr) o_som_do_silencio
+  (jpg) pantano
+meus_docs:
+  (png) descampado
+  (docx) relatorio_de_resultados
+  (jpg) pista_de_esqui
+manuais:
+  (pdf) manual_de_procedimentos
+  (pptx) termo_de_responsabilidade
+  (docx) relatorio_de_pesquisa
+  (pdf) termo_de_cooperacao
+  (docx) analise_de_desempenho
+livros:
+  (pdf) memorando_interno
+  (docx) relatorio_de_desempenho
+  (pdf) plano_de_saude
+scripts:
+  (c) modulo_de_controle
+  (sh) script_de_build
+  (c) modulo_de_controle_cpp
+  (txt) lista_de_tarefas
+  (c) modulo_de_interface
+  (c) testes_performance

@@ -1,0 +1,63 @@
+ERRO: Pasta notas nao encontrada.
+ERRO: Pasta privado nao encontrada.
+ERRO: Pasta fontes nao encontrada.
+musicas:
+  (aac) onde_anda_voce
+  (mp3) ideologia
+  (aac) por_essa_nossa_vida
+projeto_empresa:
+  (c) modulo_de_desenvolvimento_cpp
+  (txt) lista_de_tarefas
+  (md) documentacao
+  (pptx) analise_de_viabilidade
+  (png) macieira
+  (docx) analise_de_desempenho
+  (c) prototipo_cpp
+projeto_mapa:
+  (c) modulo_de_inicializacao_cpp
+  (c) testes_regressao
+  (docx) relatorio_de_resultados
+  (jpg) duna
+  (c) modulo_de_memoria
+  (png) macieira
+  (pdf) contrato_de_servicos
+  (txt) roteiro_de_testes
+  (docx) roteiro_de_teatro
+  (png) igreja
+modelos:
+  (3mf) modelo_de_ruina_gotica
+impressao_3d:
+  (objc) engrenagem_de_bicicleta_antiga
+  (obj) modelo_de_maquete_de_cidade
+  (3mf) engrenagem
+  (stl) joia_de_casamento
+arquivos:
+  (pdf) manual_de_uso
+  (jpg) cedro
+  (h) prototipos
+  (epub) dom_quixote
+  (mp3) peso_da_consciencia
+meus_docs:
+  (pptx) registro_de_marcas
+  (png) porto
+  (png) quadra
+  (jpg) urbano
+jogos:
+  (zip) ilha_misteriosa
+  (dmg) desafio_ao_limite
+  (rar) resgate_na_floresta
+  (zip) jungle_warfare
+docs_trabalho:
+  (c) modulo_de_conexao_cpp
+  (pptx) proposta_de_orcamento
+  (jpg) universidade
+  (pdf) manual_de_uso
+  (jpg) padaria
+  (png) cabine
+  (docx) analise_de_investimentos
+scripts:
+  (c) modulo_de_log_cpp
+  (c) modulo_de_audio
+  (c) modulo_de_validacao
+  (c) modulo_de_video
+  (c) modulo_grafico

@@ -1,0 +1,66 @@
+ERRO: Pasta trabalhos nao encontrada.
+ERRO: Pasta notas nao encontrada.
+ERRO: Pasta relatorios nao encontrada.
+ERRO: Pasta fotos nao encontrada.
+ERRO: Pasta logs nao encontrada.
+ERRO: Pasta projetos nao encontrada.
+ERRO: Pasta modelos_3d nao encontrada.
+projeto_empresa:
+  (pdf) requerimento_administrativo
+  (c) modulo_de_graficos
+  (c) exemplo_codigo
+  (jpg) sacristia
+  (c) prototipo_cpp
+  (pdf) manual_de_manutencao
+arquivos:
+  (txt) luciola
+  (jpg) calanque
+  (pdf) roteiro_de_evento
+  (c) modulo_de_dados_cpp
+  (ogg) eu_canto_assim
+  (png) bambuzal
+  (c) modulo_de_saida_cpp
+meus_docs:
+  (pdf) memorando_interno
+  (png) escarpa
+  (jpg) antigo
+  (png) estaleiro
+  (docx) contrato_de_associacao
+  (jpg) casino
+  (png) industria
+jogos:
+  (exe) aventura_perigosa
+  (zip) guerreiros_da_luz
+  (dmg) defesa_aerea
+  (iso) trilhas_perdidas
+docs_trabalho:
+  (pptx) analise_de_viabilidade
+  (c) controle_de_fluxo
+  (pdf) roteiro_de_video
+  (pdf) manual_do_usuario
+  (jpg) arena
+  (make) makefile
+  (docx) relatorio_de_producao
+  (jpg) oceano
+  (pdf) guia_de_usuario
+livros:
+  (pdf) contrato_de_compra_e_venda
+  (pptx) diagrama_de_fluxo
+  (xlsx) planilha_de_orcamento
+  (pdf) regulamento_interno
+  (pdf) manual_de_processos
+  (docx) memoria_descritiva
+  (pdf) termo_de_aceite
+  (docx) relatorio_de_avaliacao
+scripts:
+  (c) modulo_de_parsing
+  (c) modulo_de_audio
+  (c) modulo_de_log
+  (h) macros
+  (c) modulo_de_permissoes_cpp
+  (sh) script_automatizacao
+  (c) modulo_de_renderizacao_cpp
+  (c) modulo_de_graficos
+  (c) testes_funcionais
+  (c) testes_regressao
+  (c) modulo_de_inicializacao_cpp

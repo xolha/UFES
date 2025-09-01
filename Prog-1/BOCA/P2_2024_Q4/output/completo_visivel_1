@@ -1,0 +1,50 @@
+ERRO: Arquivo nao cabe na pasta modelos.
+ERRO: Pasta privado nao encontrada.
+ERRO: Pasta dot_files nao encontrada.
+ERRO: Arquivo nao cabe na pasta modelos.
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Pasta fotos nao encontrada.
+ERRO: Arquivo nao cabe na pasta musicas.
+ERRO: Arquivo nao cabe na pasta musicas.
+musicas:
+  (aac) por_essa_nossa_vida
+  (dsd) a_gente_vai_levar_o_que_dessa_vida
+  (ac3) eu_preciso_te_ver
+modelos:
+  (stl) brinquedo
+  (3mf) modelo_de_ruina_antiga
+  (3mf) engrenagem_de_jet_ski
+  (objc) escultura_de_fantasia
+impressao_3d:
+  (3mf) prototipo_de_telefone
+  (stl) peca_de_modulo_de_memoria
+  (3mf) dispositivo_medico
+  (stl) modelo_de_cadeia_de_alimentacao
+jogos:
+  (rar) batalha_no_espaco
+  (zip) pesadelo_nas_alturas
+  (dmg) desafio_ninja
+  (zip) aventuras_na_selva
+  (exe) dragoes_do_fogo
+  (dmg) navios_de_guerra
+  (zip) emergencia_na_cidade
+docs_trabalho:
+  (pptx) contrato_de_sociedade
+  (png) trilha
+  (pdf) contrato_de_compra_e_venda
+  (pptx) estudo_ambiental
+  (pdf) requerimento_administrativo
+  (h) macros
+  (png) acampamento
+livros:
+  (pptx) memorando_oficial
+  (pptx) plano_de_negocios
+  (xlsx) planilha_orcamentaria
+  (pdf) formulario_de_inscricao
+  (pdf) contrato_de_servicos
+scripts:
+  (c) modulo_utilitario_cpp
+  (c) testes_funcionais_cpp
+  (c) modulo_de_permissoes
+  (c) modulo_de_renderizacao_cpp
+  (c) modulo_de_autenticacao

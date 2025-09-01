@@ -1,0 +1,61 @@
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta docs_trabalho.
+ERRO: Arquivo nao cabe na pasta scripts.
+ERRO: Arquivo nao cabe na pasta meus_docs.
+ERRO: Arquivo nao cabe na pasta scripts.
+musicas:
+  (aac) bilhete
+  (wav) implorar_pra_voltar
+  (aac) prato_do_dia
+  (dts) pelos_becos_da_cidade
+  (flac) amor_perfeito
+projeto_mapa:
+  (c) modulo_de_rede
+  (jpg) conjunto
+  (c) modulo_de_parsing_cpp
+  (pdf) manual_de_procedimentos
+  (pdf) proposta_de_parceria
+modelos:
+  (obj) estatueta
+  (3mf) joia_de_diamante_azul
+  (stl) joia_de_opala
+  (3mf) dispositivo_de_armazenamento_de_dados
+  (objc) escultura_de_marvel
+  (3mf) joia_de_diamante
+impressao_3d:
+  (stl) modelo_de_palacio
+  (obj) decoracao_de_festa
+  (stl) miniatura_de_droid
+arquivos:
+  (dsd) mais_uma_vez
+  (jpg) teatro
+  (pdf) termo_de_cooperacao
+  (pdf) termo_de_uso
+  (fb2) o_jogo_da_velha
+  (odt) o_alienista
+  (c) modulo_de_criptografia_cpp
+meus_docs:
+  (png) porto
+  (png) acidente
+  (pdf) termo_de_licitacao
+  (png) aula
+  (png) geleira
+  (png) bairro
+  (png) galpao
+docs_trabalho:
+  (docx) roteiro_de_entrevista
+  (jpg) alvorada
+  (pdf) contrato_de_trabalho
+  (pdf) contrato_de_compra
+  (sh) script_de_build_cpp
+  (pdf) roteiro_de_video
+livros:
+  (pptx) registro_de_marcas
+  (pdf) proposta_de_servicos
+  (pdf) roteiro_de_audiovisual
+  (docx) analise_economica
+scripts:
+  (md) documentacao_api
+  (c) prototipo_cpp
+  (c) testes_de_carga
+  (c) modulo_de_autenticacao

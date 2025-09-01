@@ -1,0 +1,18 @@
+2
+impressao_3d 3 1700
+stl peca_de_modulo_de_transmissao 600
+stl peca_de_modulo_de_bluetooth 200
+3mf dispositivo_eletronico 600
+docs_trabalho 5 3500
+pdf manual_de_instalacao 600
+pdf termo_de_uso 300
+c modulo_de_audio 900
+png quinta 800
+pptx relatorio_de_impacto_ambiental 900
+6
+docs_trabalho exe morris_worm_1 0
+impressao_3d exe trojan_chat_1 0
+impressao_3d exe trojan_chat_2 0
+docs_trabalho exe morris_worm_2 0
+docs_trabalho exe trojan_chat_3 0
+impressao_3d exe morris_worm_3 0
