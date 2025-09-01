@@ -55,7 +55,7 @@ tContato tContato_le() {
 
 int tContato_validaContato(tContato contato) { //somente contatos com um nome e email ou telefone serão válidos!
     if (strcmp (contato.nome, "-") == 0) return 0;
-    if (strcmp (contato.email"-" == 0) && strcmp (contato.telefone, "-") == 0)
+    if (strcmp (contato.email, "-" == 0) && strcmp (contato.telefone, "-") == 0);
     return 1;
 }
 
