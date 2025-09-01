@@ -1,0 +1,13 @@
+projeto_mapa:
+  (c) modulo_de_serializacao
+  (c) modulo_de_armazenamento_cpp
+modelos:
+  (stl) modelo_de_casinha_de_boneca
+jogos:
+  (zip) fronteiras_do_imperio
+projeto_empresa:
+  (png) glaciar
+  (c) modulo_de_criptografia
+  (c) funcoes_auxiliares
+  (pptx) diagrama_de_fluxo
+  (c) modulo_de_criptografia_cpp

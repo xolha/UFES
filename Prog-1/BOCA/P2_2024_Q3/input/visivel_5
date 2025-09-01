@@ -1,0 +1,10 @@
+2
+impressao_3d 3
+obj modelo_de_maquina
+3mf escultura_de_jogador
+objc peca_de_modulo_de_interface
+scripts 1
+c modulo_de_seguranca_cpp
+2
+scripts c
+impressao_3d obj

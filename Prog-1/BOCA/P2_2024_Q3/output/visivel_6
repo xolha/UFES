@@ -1,0 +1,24 @@
+meus_docs:
+  (jpg) bem-te-vi
+  (jpg) pantano
+  (jpg) hospital
+scripts:
+  (c) modulo_de_arquivos
+  (h) prototipos
+  (c) modulo_de_protocolos_cpp
+  (sh) script_de_build_cpp
+meus_docs:
+  (jpg) bem-te-vi
+  (jpg) pantano
+  (jpg) hospital
+  (png) geleira
+  (pptx) estudo_de_viabilidade
+jogos:
+  (rar) labirinto_do_medo
+  (rar) defesa_aquatica
+impressao_3d:
+  (stl) peca_de_aviao
+  (objc) modelo_de_castelo
+  (stl) peca_de_modulo_de_fonte_de_energia
+  (3mf) dispositivo_de_armazenamento
+  (stl) brinquedo
