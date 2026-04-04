@@ -3,10 +3,6 @@
 //contexto: declarar 3 numeros e organizar eles
 
 int main() {
-    //primeiro declaar 3 numeros
-    //segundo ler esses valores
-    //terceiro fazer o else if gigantes para verificar
-
     int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
 
@@ -21,7 +17,7 @@ int main() {
     } else if ( c <= a && a <= b ) {
         printf("N3 = %d, N1 = %d, N2 = %d", c, a, b);
     } else if ( c <= b && b <= a) {
-        printf("N3 = %d, N2 = %d, N1 = %d, c, b, a");
+        printf("N3 = %d, N2 = %d, N1 = %d", c, b, a);
     }
 
     return 0;
