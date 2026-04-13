@@ -1,0 +1,18 @@
+gcc main.c -o main
+
+mkdir -p output/main
+
+./main < input/test_1 > output/main/test_1
+./main < input/test_2 > output/main/test_2
+./main < input/test_3 > output/main/test_3
+./main < input/test_4 > output/main/test_4
+./main < input/test_5 > output/main/test_5
+./main < input/test_6 > output/main/test_6
+
+
+diff output/test_1 output/main/test_1
+diff output/test_2 output/main/test_2
+diff output/test_3 output/main/test_3
+diff output/test_4 output/main/test_4
+diff output/test_5 output/main/test_5
+diff output/test_6 output/main/test_6
