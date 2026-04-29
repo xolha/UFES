@@ -1,0 +1,45 @@
+gcc main.c -o main
+
+mkdir -p output/main
+
+./main < input/test_1.txt > output/main/test_1
+./main < input/test_2.txt > output/main/test_2
+./main < input/test_3.txt > output/main/test_3
+./main < input/test_4.txt > output/main/test_4
+./main < input/test_5.txt > output/main/test_5
+./main < input/test_6.txt > output/main/test_6
+./main < input/test_7.txt > output/main/test_7
+./main < input/test_8.txt > output/main/test_8
+./main < input/test_9.txt > output/main/test_9
+./main < input/test_10.txt > output/main/test_10
+./main < input/test_11.txt > output/main/test_11
+./main < input/test_12.txt > output/main/test_12
+./main < input/test_13.txt > output/main/test_13
+./main < input/test_14.txt > output/main/test_14
+./main < input/test_15.txt > output/main/test_15
+./main < input/test_16.txt > output/main/test_16
+./main < input/test_17.txt > output/main/test_17
+./main < input/test_18.txt > output/main/test_18
+./main < input/test_19.txt > output/main/test_19
+./main < input/test_20.txt > output/main/test_20
+
+diff output/test_1.txt output/main/test_1
+diff output/test_2.txt output/main/test_2
+diff output/test_3.txt output/main/test_3
+diff output/test_4.txt output/main/test_4
+diff output/test_5.txt output/main/test_5
+diff output/test_6.txt output/main/test_6
+diff output/test_7.txt output/main/test_7
+diff output/test_8.txt output/main/test_8
+diff output/test_9.txt output/main/test_9
+diff output/test_10.txt output/main/test_10
+diff output/test_11.txt output/main/test_11
+diff output/test_12.txt output/main/test_12
+diff output/test_13.txt output/main/test_13
+diff output/test_14.txt output/main/test_14
+diff output/test_15.txt output/main/test_15
+diff output/test_16.txt output/main/test_16
+diff output/test_17.txt output/main/test_17
+diff output/test_18.txt output/main/test_18
+diff output/test_19.txt output/main/test_19
+diff output/test_20.txt output/main/test_20

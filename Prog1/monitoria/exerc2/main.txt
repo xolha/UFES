@@ -1,0 +1,4 @@
+Descriptografia : 10
+Descriptografia : 10
+MAX: 10
+MIN: 10

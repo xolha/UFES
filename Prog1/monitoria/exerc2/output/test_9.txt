@@ -1,0 +1,5 @@
+Descriptografia : 0101
+Descriptografia : 01010101
+Descriptografia : 010101010101
+MAX: 1365
+MIN: 5

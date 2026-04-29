@@ -1,0 +1,6 @@
+Descriptografia : 11010101
+Descriptografia : 01010100
+Descriptografia : 1101010101010101
+Descriptografia : 0101010101010100
+MAX: 54613
+MIN: 84

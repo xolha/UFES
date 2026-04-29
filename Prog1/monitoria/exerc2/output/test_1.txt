@@ -1,0 +1,4 @@
+Descriptografia : 1010
+Descriptografia : 01010
+MAX: 10
+MIN: 10

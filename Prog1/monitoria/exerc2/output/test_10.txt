@@ -1,0 +1,5 @@
+Descriptografia : 111111
+Descriptografia : 0000000
+Descriptografia : 11111111
+MAX: 255
+MIN: 0
