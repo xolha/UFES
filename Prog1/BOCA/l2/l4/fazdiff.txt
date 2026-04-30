@@ -1,0 +1,7 @@
+gcc main.c -o main
+
+mkdir -p output/main
+
+./main < input/test_1 > output/main/test_1
+
+diff output/test_1 output/main/test_1
