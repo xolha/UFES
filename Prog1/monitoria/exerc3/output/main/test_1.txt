@@ -1,0 +1,216 @@
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+- - - X - - - -
+- - - X - - - -
+- - - X - - - -
+X X X X X X X X
+- - - X - - - -
+- - - X - - - -
+- - - X - - - -
+- - - X - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+X - - - X - - -
+- X - X - - - -
+- - X - - - - -
+- X - X - - - -
+X - - - X - - -
+- - - - - X - -
+- - - - - - X -
+- - - - - - - X
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+X X - - - - - -
+X X - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+- - - - - - - -
+- - - - - - - -
+- - - X - X - -
+- - X - - - X -
+- - - - X - - -
+- - X - - - X -
+- - - X - X - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+X - - - - - - -
+- - X - - - - -
+- X - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Opcao Invalida! Escolha novamente.
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+Coordenada Invalida!
+Indique a coordenada (X,Y): 
+X X - - - - - -
+X X - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+X X X X X X X X
+- - - - X - - -
+- - - - X - - -
+- - - - X - - -
+- - - - X - - -
+- - - - X - - -
+- - - - X - - -
+- - - - X - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+- - - - - - - X
+- - - - - - X -
+- - - - - X - -
+- - - - X - - -
+- - - X - - - -
+- - X - - - - -
+- X - - - - - -
+X - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+X X - - - - - -
+X X - - - - - -
+X X - - - - - -
+- - - - - - - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+- - - X - - - -
+- X - - - - - -
+- - - X - - - -
+X - X - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+- - - - - - - -
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Opcao Invalida! Escolha novamente.
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
+Indique a coordenada (X,Y): 
+Coordenada Invalida!
+Indique a coordenada (X,Y): 
+X - - - X - - -
+- X - X - - - -
+- - X - - - - -
+- X - X - - - -
+X - - - X - - -
+- - - - - X - -
+- - - - - - X -
+- - - - - - - X
+
+Menu:
+R - Rei
+T - Torre
+B - Bispo
+C - Cavalo
+Q - Sair
+Escolha uma opcao: 
