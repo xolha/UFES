@@ -1,0 +1,9 @@
+Mariana: RECUPERACAO (media 5.00)
+Nicolas: APROVADO (media 9.77)
+Otavio: REPROVADO (media 4.90)
+Paula: RECUPERACAO (media 6.97)
+Rafael: APROVADO (media 8.00)
+Sofia: RECUPERACAO (media 6.00)
+
+Melhor aluno: Nicolas
+Media da turma: 6.77

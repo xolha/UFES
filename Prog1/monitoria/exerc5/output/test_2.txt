@@ -1,0 +1,7 @@
+Daniel: APROVADO (media 9.00)
+Eduarda: APROVADO (media 8.17)
+Felipe: APROVADO (media 10.00)
+Gabriela: APROVADO (media 7.50)
+
+Melhor aluno: Felipe
+Media da turma: 8.67

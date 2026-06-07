@@ -1,0 +1,4 @@
+Leonardo: APROVADO (media 7.00)
+
+Melhor aluno: Leonardo
+Media da turma: 7.00

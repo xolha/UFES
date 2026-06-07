@@ -1,0 +1,7 @@
+Andre: RECUPERACAO (media 5.50)
+Bruno: RECUPERACAO (media 6.17)
+Carlos: REPROVADO (media 4.50)
+Daniel: APROVADO (media 9.43)
+
+Melhor aluno: Daniel
+Media da turma: 6.40

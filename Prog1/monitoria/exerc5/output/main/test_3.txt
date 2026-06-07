@@ -1,0 +1,6 @@
+Hugo: REPROVADO (media 2.17)
+Ines: REPROVADO (media 4.43)
+Joao: REPROVADO (media 1.00)
+
+Melhor aluno: Ines
+Media da turma: 2.53

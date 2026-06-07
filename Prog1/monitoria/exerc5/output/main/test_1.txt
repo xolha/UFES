@@ -1,0 +1,6 @@
+Alice: APROVADO (media 8.33)
+Bob: REPROVADO (media 4.17)
+Carol: RECUPERACAO (media 6.17)
+
+Melhor aluno: Alice
+Media da turma: 6.22
