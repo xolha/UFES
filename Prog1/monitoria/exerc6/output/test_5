@@ -1,0 +1,51 @@
+--- Concessionaria ---
+C - Cadastrar carro
+I - Listar carros
+O - Ordenar por preco
+M - Imprimir preco medio
+F - Finalizar
+
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+
+Concessionaria: MidCar
+Hyundai HB20 (2020) - GHS3L77 - Azul - R$ 70000.00
+Jeep Compass (2022) - KDJ8M12 - Cinza - R$ 160500.00
+Ford Fiesta (2018) - LRA4C55 - Cinza - R$ 40200.00
+Toyota Hilux (2021) - MNB6T01 - Branco - R$ 180300.00
+Volkswagen Gol (2017) - TRX9B34 - Prata - R$ 35100.00
+Renault Sandero (2019) - PLM1F80 - Vermelho - R$ 42150.00
+Fiat Argo (2020) - BNH2Q11 - Azul - R$ 55300.00
+Chevrolet Cruze (2019) - HJK4E66 - Prata - R$ 95200.00
+Volkswagen Jetta (2021) - KLP9U10 - Preto - R$ 135700.00
+Honda HR-V (2020) - PRB3K88 - Cinza - R$ 120900.00
+Honda City (2019) - QAZ7L55 - Prata - R$ 85250.00
+Toyota Yaris (2020) - WSX2M90 - Vermelho - R$ 90300.00
+
+
+Concessionaria: MidCar
+Volkswagen Gol (2017) - TRX9B34 - Prata - R$ 35100.00
+Ford Fiesta (2018) - LRA4C55 - Cinza - R$ 40200.00
+Renault Sandero (2019) - PLM1F80 - Vermelho - R$ 42150.00
+Fiat Argo (2020) - BNH2Q11 - Azul - R$ 55300.00
+Hyundai HB20 (2020) - GHS3L77 - Azul - R$ 70000.00
+Honda City (2019) - QAZ7L55 - Prata - R$ 85250.00
+Toyota Yaris (2020) - WSX2M90 - Vermelho - R$ 90300.00
+Chevrolet Cruze (2019) - HJK4E66 - Prata - R$ 95200.00
+Honda HR-V (2020) - PRB3K88 - Cinza - R$ 120900.00
+Volkswagen Jetta (2021) - KLP9U10 - Preto - R$ 135700.00
+Jeep Compass (2022) - KDJ8M12 - Cinza - R$ 160500.00
+Toyota Hilux (2021) - MNB6T01 - Branco - R$ 180300.00
+
+Preco medio: R$ 92575.00
+Programa Encerrado!

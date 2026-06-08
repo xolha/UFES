@@ -1,0 +1,113 @@
+--- Concessionaria ---
+C - Cadastrar carro
+I - Listar carros
+O - Ordenar por preco
+M - Imprimir preco medio
+F - Finalizar
+
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Concessionaria CHEIA!
+
+Concessionaria: SuperCar
+Honda Civic (2020) - BRA2E19 - Preto - R$ 95000.00
+Toyota Corolla (2021) - QWE5H22 - Branco - R$ 105000.00
+Chevrolet Onix (2019) - PTX0A98 - Vermelho - R$ 65000.00
+Hyundai HB20 (2020) - GHS3L77 - Azul - R$ 70000.00
+Jeep Compass (2022) - KDJ8M12 - Cinza - R$ 160000.00
+Ford Fiesta (2018) - LRA4C55 - Cinza - R$ 40000.00
+Toyota Hilux (2021) - MNB6T01 - Branco - R$ 180000.00
+Volkswagen Gol (2017) - TRX9B34 - Prata - R$ 35000.00
+Renault Sandero (2019) - PLM1F80 - Vermelho - R$ 42000.00
+Renault Kwid (2022) - ZXC7P44 - Laranja - R$ 48000.00
+Fiat Argo (2020) - BNH2Q11 - Azul - R$ 55000.00
+Fiat Toro (2021) - CVT5R29 - Preto - R$ 145000.00
+Chevrolet S10 (2020) - FDS8W03 - Branco - R$ 155000.00
+Chevrolet Cruze (2019) - HJK4E66 - Prata - R$ 95000.00
+Volkswagen Jetta (2021) - KLP9U10 - Preto - R$ 135000.00
+Volkswagen Polo (2020) - MRT1A77 - Azul - R$ 78000.00
+Volkswagen T-Cross (2021) - NQS6D02 - Branco - R$ 125000.00
+Honda HR-V (2020) - PRB3K88 - Cinza - R$ 120000.00
+Honda City (2019) - QAZ7L55 - Prata - R$ 85000.00
+Toyota Yaris (2020) - WSX2M90 - Vermelho - R$ 90000.00
+Toyota Etios (2018) - EDC5N41 - Branco - R$ 60000.00
+Nissan Versa (2019) - RFV9P12 - Cinza - R$ 65000.00
+Nissan Kicks (2021) - TGB4Q77 - Azul - R$ 110000.00
+Nissan Frontier (2020) - YHN1R03 - Preto - R$ 170000.00
+Ford EcoSport (2019) - UJM8S66 - Prata - R$ 75000.00
+Ford Fusion (2018) - IKL3T21 - Branco - R$ 95000.00
+Ford Mustang (2021) - OLP7V88 - Vermelho - R$ 350000.00
+Jeep Renegade (2020) - PAQ2X40 - Cinza - R$ 115000.00
+Jeep Wrangler (2021) - SWE6Y19 - Verde - R$ 280000.00
+Jeep Cherokee (2019) - DRT9Z55 - Preto - R$ 220000.00
+Porsche Cayenne (2020) - FGH1A02 - Branco - R$ 600000.00
+Porsche Macan (2021) - HJU4B77 - Cinza - R$ 500000.00
+Porsche 911 (2022) - JKI8C33 - Vermelho - R$ 1200000.00
+Tesla Model 3 (2021) - LPO3D10 - Branco - R$ 250000.00
+Tesla Model S (2020) - ZAS7E44 - Preto - R$ 600000.00
+Tesla Model X (2021) - XDR2F99 - Azul - R$ 800000.00
+Tesla Model Y (2022) - CFT6G11 - Cinza - R$ 400000.00
+Chevrolet Celta (2012) - VBG1H70 - Prata - R$ 25000.00
+Fiat Palio (2014) - NHY5J22 - Branco - R$ 28000.00
+Fiat Uno (2015) - MLP9K01 - Vermelho - R$ 30000.00
+Fiat Strada (2019) - KJU4L88 - Cinza - R$ 65000.00
+Fiat Doblo (2018) - HGT2M55 - Azul - R$ 55000.00
+Citroen C4 Cactus (2020) - FRE7N90 - Verde - R$ 95000.00
+Citroen C3 (2019) - EDW3P41 - Branco - R$ 60000.00
+Citroen C5 Aircross (2021) - RFG8Q12 - Cinza - R$ 130000.00
+Hyundai Elantra (2020) - TGB1R77 - Preto - R$ 115000.00
+Hyundai Santa Fe (2019) - YHN6S03 - Prata - R$ 180000.00
+Hyundai Tucson (2021) - UJM4T66 - Branco - R$ 150000.00
+Kia Soul (2020) - IKN9U21 - Vermelho - R$ 95000.00
+Kia Sportage (2021) - OLM5V88 - Cinza - R$ 160000.00
+
+Preco medio: R$ 180020.00
+Programa Encerrado!

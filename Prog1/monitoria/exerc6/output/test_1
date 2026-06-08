@@ -1,0 +1,21 @@
+--- Concessionaria ---
+C - Cadastrar carro
+I - Listar carros
+O - Ordenar por preco
+M - Imprimir preco medio
+F - Finalizar
+
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+
+Concessionaria: Auto Vitória
+Honda Civic (2020) - ABC1234 - Preto - R$ 95000.00
+Toyota Corolla (2021) - XYZ5678 - Branco - R$ 105000.00
+
+Preco medio: R$ 100000.00
+
+Concessionaria: Auto Vitória
+Honda Civic (2020) - ABC1234 - Preto - R$ 95000.00
+Toyota Corolla (2021) - XYZ5678 - Branco - R$ 105000.00
+
+Programa Encerrado!

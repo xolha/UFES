@@ -1,0 +1,18 @@
+--- Concessionaria ---
+C - Cadastrar carro
+I - Listar carros
+O - Ordenar por preco
+M - Imprimir preco medio
+F - Finalizar
+
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+Carro cadastrado com sucesso!
+
+Concessionaria: MiniCar
+Honda Civic (2020) - BRA2E19 - Preto - R$ 95000.00
+Toyota Corolla (2021) - QWE5H22 - Branco - R$ 105500.00
+Chevrolet Onix (2019) - PTX0A98 - Vermelho - R$ 65300.00
+
+Preco medio: R$ 88600.00
+Programa Encerrado!
