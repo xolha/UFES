@@ -1,4 +1,4 @@
-gcc main.c -o main
+gcc main.c -Wall main
 
 mkdir -p output/main
 
